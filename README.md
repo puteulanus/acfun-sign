@@ -1,4 +1,4 @@
 acfun-sign
 ==========
 
-ACFun每日签到
+AcFun每日签到
